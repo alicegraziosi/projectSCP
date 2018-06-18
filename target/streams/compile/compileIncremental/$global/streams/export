@@ -1,0 +1,1 @@
+scalac -classpath C:\Users\alice\IdeaProjects\projectSCP\target\scala-2.12\classes -bootclasspath C:\Users\alice\.sbt\boot\scala-2.12.6\lib\scala-library.jar C:\Users\alice\IdeaProjects\projectSCP\src\main\scala\HelloWorld.scala
